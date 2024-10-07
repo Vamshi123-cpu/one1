@@ -8,7 +8,6 @@
 	<h1 style="color: green; font-size: 40px;" align="center">123456</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h3 style="color: Yellow; font-size: 20px;" align="center">Thank you</h1>
-        <h3 style="color: RED; font-size: 30px;" align="center">WELCOME</h1>
 
 	
 	
